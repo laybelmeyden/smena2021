@@ -124,5 +124,5 @@ function initializeClock(id, endtime) {
     var timeinterval = setInterval(updateClock, 1000);
 }
 
-var deadline = "November 23 2019 00:00:00 GMT+0300";
+var deadline = "February 21 2021 08:00:00 GMT+0300";
 initializeClock("clockdiv", deadline);

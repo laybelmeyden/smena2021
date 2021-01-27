@@ -27,7 +27,7 @@
     <span class="countdown-text">Дней</span>
   </div>
   <div class="countdown-number" style="    border-right: 1px solid white;     padding: 10px 40px 10px 40px;">
-    <span class="hours countdown-time"></span><br>
+    <span class="hours countdown-time days"></span><br>
     <span class="countdown-text">Часов</span>
   </div>
   <div class="countdown-number" style="    border-right: 1px solid white;     padding: 10px 40px 10px 40px;">
@@ -43,10 +43,9 @@
   
 </div>
 </a>
-<!-- <div id="deadline-messadge">
+<div id="deadline-messadge">
   <p class="main_p3">Смена началась !!!</p>
-  <a href="http://rusinnovations.com/new191" class="first_p_3">(Анонс начала)</a>
-</div> -->
+</div>
 </section>
 <!-- <section class="sec_poloj">
       <div class="poloj">
