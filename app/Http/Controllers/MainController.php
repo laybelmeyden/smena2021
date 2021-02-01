@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Auth;
 use App\Form;
 use App\Formtwo;
 use App\User;
+use App\News;
 
 class MainController extends Controller
 {
@@ -17,9 +18,14 @@ class MainController extends Controller
     }
     public function index()
     {
-      return view('pages.main');
+      $news = News::latest()-> get();
+
+      return view('pages.main', compact('news'));
     }
-  
+    public function newsitem(News $id)
+    {
+      return view('pages.newsitem', compact('id'));
+    }
   	public function docs()
     {
       return view('pages.docs');

@@ -35,6 +35,7 @@ Route::post('/form2', 'MainController@form2');
 Route::get('/photovideo', 'MainController@photovideo');
 
 Route::get('/ssoboy', 'MainController@ssoboy');
+Route::get('/newsitem{id}', 'MainController@newsitem');
 
 Route::get('/scrol18923net', 'MainController@scroll');
 

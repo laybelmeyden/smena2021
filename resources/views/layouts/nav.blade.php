@@ -9,12 +9,12 @@
 			      <a href="#" data-target="mobile-demo" class="sidenav-trigger">Меню</a>
 			      <ul class="right hide-on-med-and-down">
 			         @guest
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="{{ route('login') }}">Вход</a>
-            </li>
-            <li class="nav-item">
+            </li> -->
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="{{ route('register') }}">Регистрация</a>
-            </li>
+            </li> -->
                 @else
             <div class="one">
             <ul class="topmenu">

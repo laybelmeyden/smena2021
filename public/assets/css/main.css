@@ -19,6 +19,25 @@
     /* Путь к файлу со шрифтом */
 }
 
+.solo___news p {
+    word-break: break-all;
+}
+
+.solo___news p:first-child {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.card-content {
+    word-break: break-all;
+}
+
+.card-image {
+    width: 100%;
+    max-height: 300px;
+    height: 300px;
+}
+
 .span__status {
     font-size: 18px;
     color: green;
