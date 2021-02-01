@@ -162,7 +162,7 @@
     <div class="col s12 m4">
       <div class="card">
         <div class="card-image">
-          <img src="/storage/{{ $new->img }}">
+          <img src="/storage/app/public/{{ $new->img }}">
           <span class="card-title">{!! Str::limit($new -> title, 25) !!}</span>
         </div>
         <div class="card-content">
