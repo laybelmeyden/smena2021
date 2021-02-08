@@ -27,6 +27,8 @@
 	<li><a href="assets/img/Zayavka_dlya_yurlits.docx">Заявка для юрлиц.docx</a></li>
 	<li><a href="assets/img/Polozhenie_dlya_yur_lits.pdf">Положение для юр лиц.pdf</a></li>
 	<li><a href="assets/img/Zayavka_dlya_yurlits.docx">Заявка для физлиц Приложение2.docx</a></li>
+	<li><a href="https://smenait2021.ru/storage/app/public/112022.pdf">Протокол № 1 - 
+О подведении итогов конкурсного отбора и утверждении списка участников «Всероссийской профильной смены по робототехнике и техническим видам спорта»</a></li>
 	</ul>
 	</div>
 </div> 
