@@ -161,12 +161,14 @@
   @foreach($news as $new)
     <div class="col s12 m4">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image" style="    width: 100%;
+    max-height: 300px;
+    height: 300px;">
           <img src="/storage/app/public/{{ $new->img }}">
-          <span class="card-title">{!! Str::limit($new -> title, 55) !!}</span>
         </div>
         <div class="card-content">
-          <p>{!! Str::limit($new -> body, 150) !!}</p>
+          <span class="card-title">{!! Str::limit($new -> title, 35) !!}</span>
+          <p>{!! Str::limit($new -> body, 100) !!}</p>
         </div>
         <div class="card-action">
           <a href="/newsitem{{ $new->id }}">Подробнее</a>
@@ -188,12 +190,10 @@
       <img class="part_img" src="assets/img/phoca_thumb_l_003.jpg">
     </div>
     <div class="part_left">
-      <a href="https://vk.cc/a3qkyP" target="_blank">
-        <img class="part_img" src="assets/img/part/11.png">
-      </a>
+        <img class="part_img" src="assets/img/part/WhatsApp Image 2021-02-15 at 22.57.27.jpeg">
     </div>
     <div class="part_right">
-      <img class="part_img" src="assets/img/rosmolodezh_logo.png">
+      <img class="part_img" src="assets/img/part/WhatsApp Image 2021-02-15 at 22.57.31.jpeg">
     </div>
     <div class="part_right">
       <img class="part_img" src="assets/img/Iogo.png">
@@ -212,6 +212,15 @@
     </div>
     <div class="part_right">
       <img class="part_img" src="assets/img/part/bdnasnd.jpeg">
+    </div>
+    <div class="part_right">
+      <img class="part_img" src="assets/img/part/wdawd.png">
+    </div>
+    <div class="part_left">
+      <img class="part_img" src="assets/img/part/Надежда.jpg">
+    </div>
+    <div class="part_right">
+      <img class="part_img" src="assets/img/part/Надежда.png">
     </div>
     <!-- <div class="part">
           <img class="part_img" src="assets/img/part/4.png">
@@ -239,11 +248,11 @@
           </div> -->
   </div>
 </section>
-<section>
+<section id="partnerss">
   <p class="main_p3">Эксперты и организаторы конкурса</p>
   <div class="container">
     <div class="row">
-      <div class="col l4 m6 s12">
+      <div class="col xl4 l6 m6 s12">
         <div class="card">
           <div class="card-image">
             <img class="org_img" src="assets/img/335.png">
@@ -255,7 +264,7 @@
         </div>
       </div>
 
-      <div class="col l4 m6 s12">
+      <div class="col xl4 l6 m6 s12">
         <div class="card">
           <div class="card-image">
             <img class="org_img" src="assets/img/338.png">
@@ -267,10 +276,10 @@
         </div>
       </div>
 
-      <div class="col l4 m6 s12">
+      <div class="col xl4 l6 m6 s12">
         <div class="card">
           <div class="card-image">
-            <img class="org_img" src="assets/img/336.png">
+            <img class="org_img" src="assets/img/Станислав Сахаров.jpg">
             <span class="card-title text_span_org">Организатор</span>
           </div>
           <div class="card-content">
@@ -280,10 +289,10 @@
       </div>
 
 
-      <div class="col l4 m6 s12">
+      <div class="col xl4 l6 m6 s12">
         <div class="card">
           <div class="card-image">
-            <img class="org_img" src="assets/img/337.png">
+            <img class="org_img" src="assets/img/Никита Сергеев.jpg">
             <span class="card-title text_span_org">Организатор</span>
           </div>
           <div class="card-content">
@@ -292,7 +301,7 @@
         </div>
       </div>
 
-      <div class="col l4 m6 s12">
+      <div class="col xl4 l6 m6 s12">
         <div class="card">
           <div class="card-image">
             <img class="org_img" src="assets/img/5651.png">
@@ -304,7 +313,89 @@
         </div>
       </div>
 
+      <div class="col xl4 l6 m6 s12">
+        <div class="card">
+          <div class="card-image">
+            <img class="org_img" src="assets/img/2g1l34CrMGY.jpg">
+            <span class="card-title text_span_org">Эксперт</span>
+          </div>
+          <div class="card-content">
+            <p class="org_p">Владимир Добровольский</p>
+          </div>
+        </div>
+      </div>
 
+      <div class="col xl4 l6 m6 s12">
+        <div class="card">
+          <div class="card-image">
+            <img class="org_img" src="assets/img/Алина Послова.jpg">
+            <span class="card-title text_span_org">Эксперт</span>
+          </div>
+          <div class="card-content">
+            <p class="org_p">Алина Послова</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col xl4 l6 m6 s12">
+        <div class="card">
+          <div class="card-image">
+            <img class="org_img" src="assets/img/Дмитрий Ветров.jpg">
+            <span class="card-title text_span_org">Эксперт</span>
+          </div>
+          <div class="card-content">
+            <p class="org_p">Дмитрий Ветров</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col xl4 l6 m6 s12">
+        <div class="card">
+          <div class="card-image">
+            <img class="org_img" src="assets/img/Елена Сироткина.jpg">
+            <span class="card-title text_span_org">Эксперт</span>
+          </div>
+          <div class="card-content">
+            <p class="org_p">Елена Сироткина</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col xl4 l6 m6 s12">
+        <div class="card">
+          <div class="card-image">
+            <img class="org_img" src="assets/img/Надежда Поспелова.jpg">
+            <span class="card-title text_span_org">Эксперт</span>
+          </div>
+          <div class="card-content">
+            <p class="org_p">Надежда Поспелова</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col xl4 l6 m6 s12">
+        <div class="card">
+          <div class="card-image">
+            <img class="org_img" src="assets/img/Ольга Долганова.jpg">
+            <span class="card-title text_span_org">Эксперт</span>
+          </div>
+          <div class="card-content">
+            <p class="org_p">Ольга Долганова</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col xl4 l6 m6 s12">
+        <div class="card">
+          <div class="card-image">
+            <img class="org_img" src="assets/img/Семен Пухов.jpg">
+            <span class="card-title text_span_org">Эксперт</span>
+          </div>
+          <div class="card-content">
+            <p class="org_p">Семен Пухов</p>
+          </div>
+        </div>
+      </div>
 
 
     </div>
@@ -313,10 +404,10 @@
 <section class="sec_poloj">
   <div class="poloj">
     <div class="pol_1">
-      <p class="pol_p">Скачать положение о конкурсе</p>
+      <p class="pol_p">скачать программу</p>
     </div>
     <div class="pol_2">
-      <a class="btn_pol" href="/assets/img/Polozhenie_dlya_yur_lits.pdf">Скачать</a>
+      <a class="btn_pol" href="https://smenait2021.ru/storage/app/public/Programma_ot_18_02_Vse_experty.xlsx">Скачать</a>
     </div>
   </div>
 </section>

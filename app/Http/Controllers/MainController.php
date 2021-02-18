@@ -18,7 +18,7 @@ class MainController extends Controller
     }
     public function index()
     {
-      $news = News::latest()-> get();
+      $news = News::latest()-> limit(3) -> get();
 
       return view('pages.main', compact('news'));
     }

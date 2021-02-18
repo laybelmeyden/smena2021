@@ -28,14 +28,19 @@
     font-size: 22px;
 }
 
-.card-content {
-    word-break: break-all;
+#partnerss .card-image {
+    height: 400px;
+    min-height: 400px;
+    max-height: 400px;
+    overflow: hidden;
 }
 
-.card-image {
+#partnerss .card-image img {
     width: 100%;
-    max-height: 300px;
-    height: 300px;
+}
+
+.card-content {
+    word-break: break-all;
 }
 
 .span__status {
