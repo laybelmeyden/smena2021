@@ -28,17 +28,6 @@
     font-size: 22px;
 }
 
-#partnerss .card-image {
-    height: 400px;
-    min-height: 400px;
-    max-height: 400px;
-    overflow: hidden;
-}
-
-#partnerss .card-image img {
-    width: 100%;
-}
-
 .card-content {
     word-break: break-all;
 }
