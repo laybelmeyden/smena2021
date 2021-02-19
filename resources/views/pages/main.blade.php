@@ -255,32 +255,8 @@
       <div class="col xl4 l6 m6 s12">
         <div class="card">
           <div class="card-image">
-            <img class="org_img" src="assets/img/335.png">
-            <span class="card-title text_span_org">Эксперт</span>
-          </div>
-          <div class="card-content">
-            <p class="org_p">Андрей Поскряков</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col xl4 l6 m6 s12">
-        <div class="card">
-          <div class="card-image">
-            <img class="org_img" src="assets/img/338.png">
-            <span class="card-title text_span_org">Эксперт</span>
-          </div>
-          <div class="card-content">
-            <p class="org_p">Матвей Бебенин</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col xl4 l6 m6 s12">
-        <div class="card">
-          <div class="card-image">
             <img class="org_img" src="assets/img/Станислав Сахаров.jpg">
-            <span class="card-title text_span_org">Организатор</span>
+            <span class="card-title text_span_org">Эксперт</span>
           </div>
           <div class="card-content">
             <p class="org_p">Станислав Сахаров</p>
@@ -301,17 +277,7 @@
         </div>
       </div>
 
-      <div class="col xl4 l6 m6 s12">
-        <div class="card">
-          <div class="card-image">
-            <img class="org_img" src="assets/img/5651.png">
-            <span class="card-title text_span_org">Эксперт</span>
-          </div>
-          <div class="card-content">
-            <p class="org_p">Квитко Катерина</p>
-          </div>
-        </div>
-      </div>
+    
 
       <div class="col xl4 l6 m6 s12">
         <div class="card">
@@ -329,7 +295,7 @@
         <div class="card">
           <div class="card-image">
             <img class="org_img" src="assets/img/Алина Послова.jpg">
-            <span class="card-title text_span_org">Эксперт</span>
+            <span class="card-title text_span_org">Организатор</span>
           </div>
           <div class="card-content">
             <p class="org_p">Алина Послова</p>
