@@ -10,7 +10,7 @@
   <div class="grid_d">
     <div class="jojo">
       <h1 class="first_p">IT СМЕНА<span class="first_p1">2021</span> </h1>
-      <p class="p_grid first_p_2">Всероссийская профильная смена по робототехнике и техническим видам спорта</p>
+      <p class="p_grid first_p_2">Всероссийская профильная смена по цифровым технологиям и 3D моделированию</p>
       <!-- <button onclick="window.location='/home'"><a href="/home" class="first_p_3">Участвовать</a></button> -->
     </div>
     <div id="block">
@@ -124,7 +124,7 @@
       <img class="kk_c" src="assets/img/daw.png">
       <div class="kk_c1">
         <p class="kk_p1">Подача заявок</p>
-        <p class="kk_p2">с 22 января</p>
+        <p class="kk_p2">до 30 сентября</p>
       </div>
       <!--<p class="kk_p3">Подай заявку на участие в конкурсе. Заявка должна содержать документы, представленные в положении</p> -->
     </div>
@@ -132,7 +132,7 @@
       <img class="kk_c" src="assets/img/daw1.png">
       <div class="kk_c1">
         <p class="kk_p1">Начало смены</p>
-        <p class="kk_p2">21 февраля</p>
+        <p class="kk_p2">28 ноября</p>
       </div>
 
     </div>
@@ -140,7 +140,7 @@
       <img class="kk_c" src="assets/img/daw2.png">
       <div class="kk_c1">
         <p class="kk_p1">Конец смены</p>
-        <p class="kk_p2">6 марта</p>
+        <p class="kk_p2">11 декабря</p>
       </div>
 
     </div>
@@ -153,7 +153,7 @@
       </div>
       </div>
       </section> -->
-<section>
+<!-- <section>
   <p class="main_p3">Новости смены</p>
   <div class="container">
   <div class="row">
@@ -179,7 +179,7 @@
   </div>
   </div>
   </div>
-</section>
+</section> -->
 <section>
   <p class="main_p3">Партнеры конкурса</p>
   <div class="partners">

@@ -12,7 +12,7 @@
                 <h5 class="white-text">Контакты</h5>
                 <ul>
                   <li><a class="grey-text text-lighten-3">8(499)7530125</a></li>
-                  <li><a class="grey-text text-lighten-3">smenarobo@anoasi.com</a></li>
+                  <li><a class="grey-text text-lighten-3">smenaAIR@yandex.ru</a></li>
                 </ul>
               </div>
             </div>
