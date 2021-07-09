@@ -19,7 +19,7 @@
 </section>
 <section class="timer">
   <p class="main_p3">До начала смены осталось</p>
-  <a href="/newinfo" target="_blank">
+  <a href="/" target="_blank">
     <div id="clockdiv">
       <div id="countdown" class="countdown">
         <div class="countdown-number" style="    border-right: 1px solid white;     padding: 10px 40px 10px 40px;">
