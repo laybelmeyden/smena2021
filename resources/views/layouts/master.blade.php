@@ -6,9 +6,9 @@
   <!--meta-->
   <meta charset="UTF-8">
   <meta name="description" content="IT СМЕНА 2021 -
-Всероссийская профильная смена по робототехнике и техническим видам спорта" />
+Всероссийская профильная смена по цифровым технологиям и 3D моделированию" />
   <META NAME="keywords" CONTENT="IT СМЕНА 2021 -
-Всероссийская профильная смена по робототехнике и техническим видам спорта">
+Всероссийская профильная смена по цифровым технологиям и 3D моделированию">
   <META NAME="AUTHOR" CONTENT="https://vk.com/glrlcocks">
   <meta name="revisit-after" content="5 days">
   <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -17,13 +17,13 @@
   <!--соц сети-->
   <meta property="og:type" content="article" />
   <meta property="og:title" content="IT СМЕНА 2021 -
-Всероссийская профильная смена по робототехнике и техническим видам спорта" />
+Всероссийская профильная смена по цифровым технологиям и 3D моделированию" />
   <meta property="og:description" content="IT СМЕНА 2021 -
-Всероссийская профильная смена по робототехнике и техническим видам спорта" />
+Всероссийская профильная смена по цифровым технологиям и 3D моделированию" />
   <meta property="og:image" href="" />
   <meta property="og:url" content="ccskm" />
   <meta property="og:site_name" content="IT СМЕНА 2021 -
-Всероссийская профильная смена по робототехнике и техническим видам спорта" />
+Всероссийская профильная смена по цифровым технологиям и 3D моделированию" />
 
   <link type="text/css" rel="stylesheet" href="assets/materialize/css/materialize.min.css" media="screen,projection" />
   <link type="text/css" rel="stylesheet" href="assets/css/main.css" />

@@ -153,7 +153,7 @@
       </div>
       </div>
       </section> -->
-<!-- <section>
+<section>
   <p class="main_p3">Новости смены</p>
   <div class="container">
   <div class="row">
@@ -179,7 +179,7 @@
   </div>
   </div>
   </div>
-</section> -->
+</section>
 <section>
   <p class="main_p3">Партнеры конкурса</p>
   <div class="partners">

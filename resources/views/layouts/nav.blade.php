@@ -41,7 +41,7 @@
 			        <li><a href="/ssoboy">Что взять с собой?</a></li>
 			        <li><a href="/photovideo">Фото/Видео</a></li>
                     <!-- <li><a href="/rasp">Расписание</a></li> -->
-                    <!-- <li><a href="/docs">Документы</a></li> -->
+                    <li><a href="/docs">Документы</a></li>
 			      </ul>
 			    </div>
 			  </nav>
@@ -50,7 +50,7 @@
 			        <li><a href="/ssoboy">Что взять с собой?</a></li>
 			        <li><a href="/photovideo">Фото/Видео</a></li>
                 	<!-- <li><a href="/rasp">Расписание</a></li> -->
-                	<!-- <li><a href="/docs">Документы</a></li> -->
+                	<li><a href="/docs">Документы</a></li>
 			         @guest
             <li class="nav-item">
                 <a class="nav-link" href="{{ route('login') }}">Вход</a>
