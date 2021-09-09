@@ -367,7 +367,7 @@
     </div>
   </div>
 </section>
-<section class="sec_poloj">
+<!-- <section class="sec_poloj">
   <div class="poloj">
     <div class="pol_1">
       <p class="pol_p">скачать программу</p>
@@ -376,7 +376,7 @@
       <a class="btn_pol" href="https://smenait2021.ru/storage/app/public/Programma_ot_18_02_Vse_experty.xlsx">Скачать</a>
     </div>
   </div>
-</section>
+</section> -->
 <section class="main_2">
   <div class="main_1">
     <div class="main_img">
