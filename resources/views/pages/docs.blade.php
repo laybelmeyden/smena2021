@@ -23,7 +23,7 @@
 </div> -->
 	<div class="docs_ul">
 	<ul>
-		<li><a href="assets/docs/Regionalnye_partnery_2021.pdf">Положение 2.pdf</a></li>
+		<li><a href="assets/docs/Regionalnye_partnery_2021.pdf">Региональные партнеры 2021.pdf</a></li>
 	<li><a href="assets/docs/Polozhenie_2.pdf">Положение 2.pdf</a></li>
 	<li><a href="assets/docs/Zayavka_dlya_fizlits_smena_2021_noyabr.docx">Заявка для физлиц смена 2021 ноябрь.docx</a></li>
 	<li><a href="assets/docs/Zayavka_dlya_yur_lits_smena_2021_noyabr.docx">Заявка для юр лиц смена 2021 ноябрь.docx</a></li>
